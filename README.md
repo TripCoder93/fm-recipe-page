@@ -31,7 +31,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/TripCoder93/fm-recipe-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Recipe Page](https://tripcoder93.github.io/fm-recipe-page/)
 
 ## My process
 
